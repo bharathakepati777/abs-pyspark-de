@@ -221,4 +221,3 @@ df.dropna(inplace = True)
 print(df.to_string())
 
 # COMMAND ----------
-
